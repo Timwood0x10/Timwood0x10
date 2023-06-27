@@ -11,10 +11,6 @@
 </p>
 
 <img src="aboutme.gif" width="204px" height="240px" align="right">
-
-![image](https://user-images.githubusercontent.com/42486737/120118004-e0cd8380-c1ad-11eb-912f-f2b8425ba367.png)
-
-![Activity](https://activity-graph.herokuapp.com/graph?username=felixfaisal&bg_color=000000&color=FFFFFF&line=00D200&point=458862)
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixfaisal&theme=dark" align="left" width="400px">
 <img src="https://github-readme-stats.vercel.app/api?username=felixfaisal&show_icons=true&theme=dark" align="right" width="400px">
