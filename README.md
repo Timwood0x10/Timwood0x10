@@ -1,4 +1,4 @@
-<p align="center"><img src="1.jpg" width="500px" height="420px"></p>
+<p align="center"><img src="1.jpg" width="480px" height="420px"></p>
 <p align="center"> 
   <a href="https://github.com/Timwood0x10"><img src="https://img.shields.io/github/followers/felixfaisal?label=follow&color=white&style=for-the-badge&logo=github"></a>  
 </p>
