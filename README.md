@@ -1,4 +1,4 @@
-<p align="center"><img src="1.png" width="800px" height="200px"></p>
+<p align="center"><img src="1.jpg" width="300px" height="200px"></p>
 <p align="center"> 
   <a href="https://github.com/Timwood0x10"><img src="https://img.shields.io/github/followers/felixfaisal?label=follow&color=white&style=for-the-badge&logo=github"></a>  
 </p>
@@ -7,4 +7,3 @@
   <img src="https://img.shields.io/static/v1?label=MLH%20Fellow&message=2021%20spring&color=yellow&style=for-the-badge">
   <img src="https://img.shields.io/static/v1?label=FOSSEE%20Fellow&message=2020&color=orange&style=for-the-badge">
 </p>
-
