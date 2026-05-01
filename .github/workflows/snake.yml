@@ -5,7 +5,7 @@ on:
     # Run every 3 hours
     - cron: "0 */3 * * *"
   workflow_dispatch:
-  # Also run when pushing to main (for testing)
+  # Also run when pushing to master (for testing)
   push:
     branches:
       - master
@@ -28,7 +28,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#2E86AB
-            dist/ocean.gif?color_snake=#0066ff
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4

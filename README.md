@@ -297,13 +297,6 @@ Beginner-friendly machine learning learning materials.
   </a>
 </p>
 
-<details align="center">
-  <summary><b>🎮 Click to view contribution graph animation</b></summary>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Timwood0x10/Timwood0x10/output/ocean.gif" alt="Ocean GIF" onerror="this.style.display='none';" />
-  </p>
-</details>
-
 ---
 
 ## 🛠️ Tech Stack
