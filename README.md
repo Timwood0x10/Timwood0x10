@@ -47,8 +47,8 @@ impl Developer {
                 "High-Performance Agent Frameworks",
             ],
             languages: vec!["Rust", "Go", "Zig", "Python"],
-            philosophy: "在系统编程与人工智能的交汇处，探索代码的深层逻辑。
-                         不满足于「能用」，追求「看透」。",
+            philosophy: "At the intersection of systems programming and AI, I explore the deep logic of code.
+                         Never settling for 'it works' — I demand to understand why.",
         }
     }
 }
@@ -320,11 +320,11 @@ Beginner-friendly machine learning learning materials.
 
 ```bash
 $ philosophy --query "what drives you"
-> "在 0x10 的世界里，每一行代码都是一次探索。
->  从 Rust 的内存安全到 Zig 的底层控制，
->  从 Transformer 的注意力到 LLVM 的指令流，
->  我相信：理解底层，才能构建未来。
->  不满足于「能用」，追求「看透」。"
+> "In the world of 0x10, every line of code is an exploration.
+>  From Rust's memory safety to Zig's low-level control,
+>  From Transformer attention to LLVM instruction streams,
+>  I believe: understand the foundations, then build the future.
+>  Never settle for 'it works' — dig deeper."
 ```
 
-> **大胆假设，小心实现，敢于质疑。**
+> **Think boldly. Implement carefully. Question everything.**
