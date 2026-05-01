@@ -289,9 +289,20 @@ Beginner-friendly machine learning learning materials.
 
 <p align="center">
   <a href="https://github.com/Timwood0x10">
-    <img src="https://github.com/Timwood0x10/Timwood0x10/blob/output/github-snake-dark.svg" alt="Snake Animation" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Timwood0x10/Timwood0x10/output/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Timwood0x10/Timwood0x10/output/github-snake.svg">
+      <img alt="Snake Animation" src="https://raw.githubusercontent.com/Timwood0x10/Timwood0x10/output/github-snake-dark.svg" style="max-width: 100%;" onerror="this.src='https://cdn.jsdelivr.net/gh/sunaraleert/snk@output/github-snake-dark.svg'; this.onerror=null;" />
+    </picture>
   </a>
 </p>
+
+<details align="center">
+  <summary><b>🎮 Click to view contribution graph animation</b></summary>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Timwood0x10/Timwood0x10/output/ocean.gif" alt="Ocean GIF" onerror="this.style.display='none';" />
+  </p>
+</details>
 
 ---
 
