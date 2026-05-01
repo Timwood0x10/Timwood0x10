@@ -6,10 +6,6 @@
 <!-- Avatar -->
 <img src="1.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #2E86AB;" />
 
-<!-- Capsule Banner -->
-<p>
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0d1117&amp;height=120&amp;section=header&amp;text=AI%20%26%20Safety&amp;fontSize=42&amp;fontColor=2E86AB&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Track%20what's%20real.%20Infer%20what's%20not.%20Never%20pretend.&amp;descSize=14&amp;descColor=c9d1d9&amp;descAlignY=52" />
-</p>
 
 <!-- Dynamic Typing Animation -->
 <p>
@@ -277,15 +273,20 @@ Beginner-friendly machine learning learning materials.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Timwood0x10&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=2E86AB&amp;icon_color=2E86AB&amp;text_color=c9d1d9" />
+<!-- CI-generated: GitHub Stats (contributions + repos) -->
+<img src="https://raw.githubusercontent.com/Timwood0x10/Timwood0x10/output/github-stats.svg" alt="GitHub Statistics" style="max-width: 100%;" />
+
+<!-- CI-generated: Top Languages -->
+<img src="https://raw.githubusercontent.com/Timwood0x10/Timwood0x10/output/top-languages.svg" alt="Top Languages" style="max-width: 100%;" />
+
+<!-- Streak stats (external service - working) -->
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Timwood0x10&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;stroke=2E86AB&amp;ring=2E86AB&amp;fire=FD7E14&amp;currStreakLabel=c9d1d9&amp;sideLabels=c9d1d9&amp;dates=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timwood0x10&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=2E86AB&amp;text_color=c9d1d9" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <a href="https://github.com/Timwood0x10">

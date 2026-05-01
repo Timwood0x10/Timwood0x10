@@ -1,0 +1,52 @@
+name: Generate Stats Cards
+
+on:
+  schedule:
+    # Run every 3 hours (same as snake.yml)
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+  # Also run when pushing to master (for testing)
+  push:
+    branches:
+      - master
+    paths:
+      - .github/workflows/stats.yml
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: output
+          fetch-depth: 0
+
+      - name: Generate GitHub Stats (contributions + repos)
+        uses: cicirello/user-statistician@v1
+        with:
+          colors: dark-dimmed
+          custom-title: "📊 TimWood0x10's GitHub Statistics"
+          hide-keys: joined, mostStarred, mostForked, followers, following, private, languages
+          max-languages: 8
+          animated-language-chart: false
+          image-file: github-stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages
+        uses: cicirello/user-statistician@v1
+        with:
+          colors: dark-dimmed
+          custom-title: "🔤 Top Languages"
+          hide-keys: general, contributions, repositories
+          max-languages: 8
+          animated-language-chart: true
+          image-file: top-languages.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
