@@ -289,11 +289,7 @@ Beginner-friendly machine learning learning materials.
 
 <p align="center">
   <a href="https://github.com/Timwood0x10">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Timwood0x10/Timwood0x10/output/github-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Timwood0x10/Timwood0x10/output/github-snake.svg">
-      <img alt="Snake Animation" src="https://raw.githubusercontent.com/Timwood0x10/Timwood0x10/output/github-snake-dark.svg" style="max-width: 100%;" onerror="this.src='https://cdn.jsdelivr.net/gh/sunaraleert/snk@output/github-snake-dark.svg'; this.onerror=null;" />
-    </picture>
+    <img src="https://raw.githubusercontent.com/Timwood0x10/Timwood0x10/output/github-snake-dark.svg" alt="Snake Animation" style="max-width: 100%;" />
   </a>
 </p>
 
