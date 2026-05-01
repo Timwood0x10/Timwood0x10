@@ -271,18 +271,24 @@ Beginner-friendly machine learning learning materials.
 
 ## 📊 Stats
 
-<div align="center">
-
-<!-- CI-generated: GitHub Stats (contributions + repos) -->
-<img src="https://raw.githubusercontent.com/Timwood0x10/Timwood0x10/output/github-stats.svg" alt="GitHub Statistics" style="max-width: 100%;" />
-
-<!-- CI-generated: Top Languages -->
-<img src="https://raw.githubusercontent.com/Timwood0x10/Timwood0x10/output/top-languages.svg" alt="Top Languages" style="max-width: 100%;" />
-
-<!-- Streak stats (external service - working) -->
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Timwood0x10&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;stroke=2E86AB&amp;ring=2E86AB&amp;fire=FD7E14&amp;currStreakLabel=c9d1d9&amp;sideLabels=c9d1d9&amp;dates=c9d1d9" />
-
-</div>
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center">
+      <!-- CI-generated: GitHub Stats (contributions + repos) -->
+      <img src="https://raw.githubusercontent.com/Timwood0x10/Timwood0x10/output/github-stats.svg" alt="GitHub Statistics" width="450" />
+    </td>
+    <td align="center">
+      <!-- CI-generated: Top Languages -->
+      <img src="https://raw.githubusercontent.com/Timwood0x10/Timwood0x10/output/top-languages.svg" alt="Top Languages" width="400" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <!-- Streak stats -->
+      <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Timwood0x10&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;stroke=2E86AB&amp;ring=2E86AB&amp;fire=FD7E14&amp;currStreakLabel=c9d1d9&amp;sideLabels=c9d1d9&amp;dates=c9d1d9" />
+    </td>
+  </tr>
+</table>
 
 ---
 
