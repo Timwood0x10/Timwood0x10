@@ -8,20 +8,20 @@
 
 <!-- Capsule Banner -->
 <p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=AI%20%26%20Safety&fontSize=42&fontColor=2E86AB&animation=twinkling&fontAlignY=32&desc=Track%20what's%20real.%20Infer%20what's%20not.%20Never%20pretend.&descSize=14&descColor=c9d1d9&descAlignY=52" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0d1117&amp;height=120&amp;section=header&amp;text=AI%20%26%20Safety&amp;fontSize=42&amp;fontColor=2E86AB&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Track%20what's%20real.%20Infer%20what's%20not.%20Never%20pretend.&amp;descSize=14&amp;descColor=c9d1d9&amp;descAlignY=52" />
 </p>
 
 <!-- Dynamic Typing Animation -->
 <p>
   <a href="https://github.com/Timwood0x10">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=2000&color=2E86AB&center=true&vCenter=true&width=700&lines=$+cat+/etc/timwood_0x10.conf;$+ROLE%3D%22Core+Developer+%26+Systems+Architect%22;$+LANGUAGES%3D%22Rust%2C+Go%2C+Zig%2C+C%2FC%2B%2B%2C+Python%22;$+FOCUS%3D%22Memory+Safety+%7C+Static+Analysis+%7C+AI+Infrastructure%22;$+echo+%22Track+what's+real.+Infer+what's+not.+Never+pretend.%22" alt="Terminal Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=14&amp;duration=3000&amp;pause=2000&amp;color=2E86AB&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=$+cat+/etc/timwood_0x10.conf;$+ROLE%3D%22Core+Developer+%26+Systems+Architect%22;$+LANGUAGES%3D%22Rust%2C+Go%2C+Zig%2C+C%2FC%2B%2B%2C+Python%22;$+FOCUS%3D%22Memory+Safety+%7C+Static+Analysis+%7C+AI+Infrastructure%22;$+echo+%22Track+what's+real.+Infer+what's+not.+Never+pretend.%22" alt="Terminal Animation" />
   </a>
 </p>
 
 <!-- Badges -->
 <p>
-  <img src="https://img.shields.io/github/followers/Timwood0x10?label=follow&color=2E86AB&style=for-the-badge&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=Timwood0x10&color=2E86AB&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Timwood0x10?label=follow&amp;color=2E86AB&amp;style=for-the-badge&amp;logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=Timwood0x10&amp;color=2E86AB&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" />
 </p>
 
 </div>
@@ -61,7 +61,7 @@ impl Developer {
 Former Web3 engineer. Currently building **tools that understand memory** — because Valgrind doesn't know what `Arc<Rc<Box<...>>>` means, and someone has to fix that.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Timwood0x10&color=2E86AB&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Timwood0x10&amp;color=2E86AB&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
@@ -277,9 +277,9 @@ Beginner-friendly machine learning learning materials.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Timwood0x10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E86AB&icon_color=2E86AB&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Timwood0x10&theme=tokyonight&hide_border=true&background=0d1117&stroke=2E86AB&ring=2E86AB&fire=FD7E14&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timwood0x10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E86AB&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Timwood0x10&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=2E86AB&amp;icon_color=2E86AB&amp;text_color=c9d1d9" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Timwood0x10&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;stroke=2E86AB&amp;ring=2E86AB&amp;fire=FD7E14&amp;currStreakLabel=c9d1d9&amp;sideLabels=c9d1d9&amp;dates=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timwood0x10&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=2E86AB&amp;text_color=c9d1d9" />
 
 </div>
 
@@ -301,9 +301,9 @@ Beginner-friendly machine learning learning materials.
 
 | Systems | AI & Data | Teaching |
 |---------|-----------|----------|
-| <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" /> | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /> | <img src="https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/LLVM-262D53?style=flat&logo=llvm&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> | <img src="https://img.shields.io/badge/Manim-1C87C7?style=flat&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Rust-000000?style=flat&amp;logo=rust&amp;logoColor=white" /> | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&amp;logo=go&amp;logoColor=white" /> | <img src="https://img.shields.io/badge/Zig-F7A41D?style=flat&amp;logo=zig&amp;logoColor=white" /> |
+| <img src="https://img.shields.io/badge/LLVM-262D53?style=flat&amp;logo=llvm&amp;logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=docker&amp;logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black" /> | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&amp;logo=tensorflow&amp;logoColor=white" /> | <img src="https://img.shields.io/badge/Manim-1C87C7?style=flat&amp;logoColor=white" /> |
 
 </div>
 
