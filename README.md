@@ -6,6 +6,13 @@
 <!-- Avatar -->
 <img src="1.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #2E86AB;" />
 
+```Shell
+ ______       __    _          
+(  /o        ( /   /        /  
+  /,  _ _ _   / / /__ __ __/   
+_/ (_/ / / /_(_/_/(_)(_)(_/_   
+```
+
 
 <!-- Dynamic Typing Animation -->
 <p>
@@ -68,7 +75,7 @@ Former Web3 engineer. Currently building **tools that understand memory** — be
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 [memscope-rs](https://github.com/just-for-dream-0x10/memscope-rs)
+### 🔬 [memscope-rs](https://github.com/TimWood0x10/memscope-rs)
 
 **Rust runtime memory analysis tool**
 
@@ -86,7 +93,7 @@ Variable-level memory tracking that Valgrind and AddressSanitizer can't do.
 </td>
 <td width="50%" valign="top">
 
-### 🔭 [OmniScope](https://github.com/just-for-dream-0x10/OmniScope)
+### 🔭 [OmniScope](https://github.com/TimWood0x10/OmniScope)
 
 **LLVM IR static safety analysis in Zig**
 
@@ -142,7 +149,7 @@ Fork from Evmos, ported Tendermint to sei-tendermint.
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [go-agent](https://github.com/just-for-dream-0x10/go-agent)
+### 🤖 [go-agent](https://github.com/TimWood0x10/go-agent)
 
 **Multi-agent framework in Go**
 
@@ -173,15 +180,15 @@ Custom agent framework with memory distillation and vector search.
 <tr>
 <td width="50%" valign="top">
 
-### 📈 [predict](https://github.com/TimWood0x10/predict)
+### 📈 [CodeTribunal](https://github.com/TimWood0x10/CodeTribunal)
 
-**Crypto currency Decision Engine**
+**The code review panel is implemented based on goagent.**
 
-- 📊 Market data analysis
+- 📊 Code Review Panel
 - 🤖 ML-based prediction pipeline
-- 💹 Trading signal generation
+- 💹 Fun Games
 
-`Python` `ML` `Crypto` `Finance`
+`go` `undercover` `CodeTribunal` 
 
 </td>
 <td width="50%" valign="top">
